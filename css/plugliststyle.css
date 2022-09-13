@@ -23,7 +23,7 @@ header {
     
     body {
         margin: 0px;
-        background-image: url("/background/background.png");
+        background-image: url("/DarkMC/background/background.png");
         width: auto;
     }
     
@@ -34,8 +34,12 @@ header {
         padding-left: 15px;
     }
     
-    @font-face { src: url(/fonts/MinecraftTen-VGORe.ttf);
+    @font-face { src: url(/DarkMC/fonts/MinecraftTen-VGORe.ttf);
     font-family: Minecraft;}
+    @font-face { src: url(/DarkMC/fonts/Roboto-Bold.ttf);
+        font-family: RobotoBold;}
+    @font-face { src: url(/DarkMC/fonts/Roboto-Regular.ttf);
+    font-family: Roboto;}
     
 .plugin2 {
     text-align: center;
