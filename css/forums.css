@@ -1,0 +1,73 @@
+header {
+    background-color: purple;
+    text-align: center;
+    font-size: 30px;
+    }
+    
+    nav {
+    background-color: rgba(128, 0, 128, 0.74);
+    width: auto;
+    height: 64px;
+    text-align: center;
+    font-size: 30px;
+    padding-bottom: 25px;
+    font-family: Minecraft;
+    }
+    
+    main {
+    width: auto;
+    height: 810px;
+    margin: 0px;
+    background-color: rgba(0, 0, 0, 0.568);
+    }
+    
+    body {
+    margin: 0px;
+    background-image: url("/background/background3.png");
+    }
+    
+    nav a {
+    text-decoration: none;
+    color: White;
+    padding-bottom: 0px;
+    padding-left: 15px;
+    }
+    
+    @font-face { src: url(/fonts/MinecraftTen-VGORe.ttf);
+    font-family: Minecraft;}
+
+    footer {
+        font-family: Minecraft;
+        font-size: 30px;
+        color: white;
+        text-align: center;
+    }
+
+    .servername_img {
+        text-align: center;
+        padding-top: 50px;
+    }
+
+    .serverip p {
+        font-family: Minecraft;
+        color: white;
+        font-size: 26px;
+        text-align: center;
+    }
+
+    .news1img {
+        font-family: Minecraft;
+        font-size: 30px;
+        color: White;
+    }
+    
+    .news1image {
+        padding-left: 100px;
+    }
+
+    .serverforumsinfo {
+        font-size: 17px;
+        font-family: Minecraft;
+        color: white;
+        text-align: center;
+    }

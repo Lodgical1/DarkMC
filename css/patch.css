@@ -1,0 +1,84 @@
+header {
+    background-color: purple;
+    text-align: center;
+    font-size: 30px;
+    }
+    
+    nav {
+    background-color: rgba(128, 0, 128, 0.74);
+    width: auto;
+    height: 64px;
+    text-align: center;
+    font-size: 30px;
+    padding-bottom: 25px;
+    font-family: Minecraft;
+    }
+    
+    main {
+    width: auto;
+    height: 810px;
+    margin: 0px;
+    background-color: rgba(0, 0, 0, 0.568);
+    }
+    
+    body {
+    margin: 0px;
+    background-image: url("/background/background2.png");
+    }
+    
+    nav a {
+    text-decoration: none;
+    color: White;
+    padding-bottom: 0px;
+    padding-left: 15px;
+    }
+    
+    @font-face { src: url(/fonts/MinecraftTen-VGORe.ttf);
+    font-family: Minecraft;}
+    
+    footer {
+        font-family: Minecraft;
+        font-size: 30px;
+        color: white;
+        text-align: center;
+    }
+
+    .patchnews {
+        font-family: Minecraft;
+        font-size: 35px;
+        color: White;
+        text-align: center;
+        padding-top: 60px;
+    }
+
+    .patchnewsimg {
+        size: 60px;
+        padding-top: 40px;
+    }
+
+    .patch1 {
+        background-color: rgba(128, 0, 128, 0.575);
+        font-family: Minecraft;
+        font-size: 30px;
+        color: white;
+        padding-bottom: 30px;
+        width: 430px;
+        height: auto;
+        border-radius: 4px;
+    }
+
+    .patch1img {
+        padding-top: 20px;
+        width: auto;
+        height: auto;
+        padding-bottom: 20px;
+    }
+
+    .patch1 a {
+        text-decoration: none;
+        color: White;
+    }
+
+    .patchdescript1 {
+        font-size: 15px;
+    }
