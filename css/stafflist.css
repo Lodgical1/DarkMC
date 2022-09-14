@@ -48,6 +48,7 @@ padding-left: 15px;
     position: absolute;
     top: 160px;
     left: 530px;
+    background-color: rgba(255, 255, 255, 0.507);
 }
 
 .image2 {
@@ -122,7 +123,7 @@ my-lcp {
     top: 680px;
     left: 240px;
     color:white;
-    background-color: rgba(0, 0, 0, 0.507);
+    background-color: rgba(255, 255, 255, 0.507);
     border-radius: 7px;
     width: 900px;
 }
