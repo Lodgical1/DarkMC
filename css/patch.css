@@ -52,7 +52,10 @@ header {
         font-size: 35px;
         color: White;
         text-align: center;
-        padding-top: 60px;
+        position: relative;
+        top: 100px;
+        background-color: white;
+        border-radius: 7px;
     }
 
     .patchnewsimg {
