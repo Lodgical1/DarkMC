@@ -11,7 +11,7 @@ header {
     text-align: center;
     font-size: 30px;
     padding-bottom: 25px;
-    font-family: Minecraft;
+    font-family: RobotoBold;
     }
     
     main {
@@ -39,6 +39,10 @@ header {
         font-family: RobotoBold;}
     @font-face { src: url(/DarkMC/fonts/Roboto-Regular.ttf);
         font-family: Roboto;}
+    @font-face {
+        font-family: RobotoMed;
+        src: url(/DarkMC/fonts/Roboto-Medium.ttf);
+    }
 
     footer {
         font-family: Minecraft;

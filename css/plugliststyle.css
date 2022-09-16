@@ -40,7 +40,9 @@ header {
         font-family: RobotoBold;}
     @font-face { src: url(/DarkMC/fonts/Roboto-Regular.ttf);
     font-family: Roboto;}
-    
+    @font-face {
+        font-family: RobotoMed;
+        src: url(/DarkMC/fonts/Roboto-Medium.ttf);}
 .plugin2 {
     text-align: center;
     width: auto;
