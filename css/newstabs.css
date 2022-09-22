@@ -7,10 +7,9 @@ header {
     nav {
     background-color: rgba(128, 0, 128, 0.74);
     width: auto;
-    height: 64px;
     text-align: center;
     font-size: 30px;
-    padding-bottom: 25px;
+    padding-bottom: 5px;
     font-family: Minecraft;
     }
     
