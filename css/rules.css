@@ -56,3 +56,7 @@ header {
         color: white;
         text-align: center;
     }
+
+    .rulelist {
+        font-family: RobotoMed;
+    }
