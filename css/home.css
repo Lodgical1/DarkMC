@@ -76,6 +76,7 @@ header {
         font-family: RobotoBold;
         color: yellow;
         font-size: 30px;
+        text-align: center;
     }
 
     .serverdowninfo {
