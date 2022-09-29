@@ -71,3 +71,9 @@ header {
     .news1image {
         padding-left: 100px;
     }
+
+    .serverdown {
+        font-family: RobotoBold;
+        color: yellow;
+        font-size: 30px;
+    }
