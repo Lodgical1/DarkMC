@@ -77,3 +77,9 @@ header {
         color: yellow;
         font-size: 30px;
     }
+
+    .serverdowninfo {
+        font-family: Roboto;
+        font-size: 15px;
+        color: white;
+    }
