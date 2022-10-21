@@ -139,3 +139,7 @@ footer {
     color: white;
     text-align: center;
 }
+
+.staff {
+    display: flexbox;
+}
