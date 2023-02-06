@@ -10,3 +10,20 @@ body {
 nav {
     font-family: Roboto;
 }
+
+header {
+    height: 400px;
+    width: auto;
+    background-image: url(/img/screenshots/mainplace.png);
+    background-position: top;
+    text-align: center;
+    padding-top: 70px;
+}
+
+.catcenter {
+    font-family: Roboto;
+    color: white;
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 20px;
+}
