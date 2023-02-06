@@ -27,3 +27,12 @@ header {
     padding-top: 40px;
     padding-bottom: 20px;
 }
+
+.catleft {
+    font-family: Roboto;
+    color: white;
+    text-align: left;
+    padding-top: 40px;
+    padding-bottom: 20px;
+    text-decoration: overline;
+}
