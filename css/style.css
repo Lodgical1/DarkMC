@@ -1,0 +1,12 @@
+body {
+    background-color: rgb(41, 41, 41);
+}
+
+@font-face {
+    font-family: Roboto;
+    src: url(/fonts/Roboto-Black.ttf);
+}
+
+nav {
+    font-family: Roboto;
+}
