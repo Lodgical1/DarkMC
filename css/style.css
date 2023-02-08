@@ -14,8 +14,8 @@ nav {
 header {
     height: 400px;
     width: auto;
-    background-image: url(/img/screenshots/mainplace.png);
-    background-position: top;
+    background-image: url(/img/screenshots/tradingave.png);
+    background-position: center;
     text-align: center;
     padding-top: 70px;
 }
@@ -34,4 +34,39 @@ header {
     text-align: left;
     padding-top: 40px;
     padding-bottom: 20px;
+}
+
+.catnopad {
+    font-family: Roboto;
+    color: white;
+    text-align: left;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.catnopadc {
+    font-family: Roboto;
+    color: white;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.rulecat {
+    font-family: Roboto;
+    color: white;
+    text-align: left;
+    text-decoration: underline;
+    padding-top: 50px;
+    padding-bottom: 20px;
+    padding-left: 15px;
+}
+
+.rule {
+    font-family: Roboto;
+    color: white;
+    text-align: left;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 35px;
 }
