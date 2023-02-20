@@ -75,14 +75,14 @@ footer {
     height: auto;
 }
 
-.catnopadcw600 {
+.catnopadcw200 {
     font-family: Roboto;
     color: white;
     text-align: center;
     padding-top: 10px;
     padding-bottom: 10px;
-    padding-left: 300px;
-    padding-right: 300px;
+    padding-left: 100px;
+    padding-right: 100px;
 }
 
 .btn-light {
