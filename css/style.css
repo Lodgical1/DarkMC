@@ -89,3 +89,16 @@ footer {
     font-family: Roboto;
     font-size: 17px;
 }
+
+.space-200pix {
+    height: 200px;
+}
+
+.space-100pix {
+    height: 100px;
+}
+
+.divider {
+    background-color: white;
+    height: 1px;
+}
