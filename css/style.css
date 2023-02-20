@@ -74,3 +74,18 @@ header {
 footer {
     height: auto;
 }
+
+.catnopadcw700 {
+    font-family: Roboto;
+    color: white;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 300px;
+    padding-right: 300px;
+}
+
+.btn-light {
+    font-family: Roboto;
+    font-size: 17px;
+}
