@@ -92,10 +92,12 @@ footer {
 
 .space-200pix {
     height: 200px;
+    width: auto;
 }
 
 .space-100pix {
     height: 100px;
+    width: auto;
 }
 
 .divider {
