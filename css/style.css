@@ -75,7 +75,7 @@ footer {
     height: auto;
 }
 
-.catnopadcw700 {
+.catnopadcw600 {
     font-family: Roboto;
     color: white;
     text-align: center;
@@ -101,4 +101,17 @@ footer {
 .divider {
     background-color: white;
     height: 1px;
+}
+
+iframe {
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    margin: auto;
+    right: 100px;
+    height: 700px;
+    width: 40%;
+    background-color: white;
+    border-radius: 10px;
 }
